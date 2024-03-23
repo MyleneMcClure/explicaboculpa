@@ -1,0 +1,20 @@
+{
+  "name": "explicaboculpa",
+  "version": "1.0.0",
+  "main": "lib/MarcRecord.js",
+  "description": "MARC record implementation in javascript",
+  "author": "EarnestWilderman",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.8.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyleneMcClure/explicaboculpa.git"
+  },
+  "homepage": "https://github.com/MyleneMcClure/explicaboculpa.git"
+}
